@@ -1,0 +1,9 @@
+
+init git lib
+
+git init初始化仓库
+git status查看仓库状态
+
+查看commit记录 
+git log
+

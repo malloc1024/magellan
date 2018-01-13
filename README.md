@@ -1,25 +1,25 @@
 # ReadMe
-![mahua](img/7m_00.jpg)
+![7M icon](img/7m_00.jpg)
 
 ## Overview
 
 **Mou**, 
-##这是什么？
+## 这是什么？
 一个放学习笔记和代码的地儿...
 
-##Malloc1024的目录结构
-   Malloc1024
-   | - magellan
-   | - 
+## Malloc1024的目录结构
+   Malloc1024  
+   | - magellan  
+   | -   
 
-##magellan的目录结构
-   magellan
-   | - doc    				放文字的地儿
-   | - src					放代码的地儿
-   | - others   			其他的地儿
-   | - pro					放项目的地儿
-   | -  | -magellantool		麦哲伦工具
-   | - README.md			就是你看到的这些文字
+## magellan的目录结构
+   magellan  
+   | - doc    				放文字的地儿  
+   | - src					放代码的地儿  
+   | - others   			其他的地儿  
+   | - pro					放项目的地儿  
+   | -  | -magellantool		麦哲伦工具  
+   | - README.md			就是你看到的这些文字  
 
 
 ## 优点

@@ -1,4 +1,9 @@
-![mahua](mahua-logo.jpg)
+# ReadMe
+![mahua](img/7m_00.jpg)
+
+## Overview
+
+**Mou**, 
 ##这是什么？
 一个放学习笔记和代码的地儿...
 
@@ -9,7 +14,7 @@
 
 ##magellan的目录结构
    magellan
-   | - doc					放文字的地儿
+   | - doc    				放文字的地儿
    | - src					放代码的地儿
    | - others   			其他的地儿
    | - pro					放项目的地儿
@@ -29,10 +34,10 @@
 ##问题
 在线
 
-* 邮件(1000000000@qq.com)
-* QQ: 1000000000
-* weibo:[@malloc](http://weibo.com/nomalloc)
-* twitter: [@malloc](http://twitter.com/malloc)
+* `邮件`(1000000000@qq.com)
+* `QQ`: 1000000000
+* `weibo`:[@malloc](http://weibo.com/nomalloc)
+* `twitter`: [@malloc](http://twitter.com/malloc)
 
 ##不需关注，不需捐助
 
@@ -41,8 +46,16 @@
 ##关于作者
 
 ```javascript
-	var malloc = {
-	nickName : malloc
-	site: nomallocweb.com
-	}
+var malloc = {
+    nickName : malloc
+    site: nomallocweb.com
+}
+```
+
+```c
+#include<stdio.h>
+void main()
+{
+    printf("hello, Note & Code!");
+}
 ```

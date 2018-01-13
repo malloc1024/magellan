@@ -1,5 +1,5 @@
 # ReadMe
-![7M icon](img/7m_01.jpg)
+![7M icon](img/7m_00.jpg)
 
 ## Overview
 

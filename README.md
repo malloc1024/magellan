@@ -31,7 +31,7 @@
 * 编辑和预览
 * VIM
 
-##问题
+## 问题
 在线
 
 * `邮件`(1000000000@qq.com)
@@ -39,11 +39,11 @@
 * `weibo`:[@malloc](http://weibo.com/nomalloc)
 * `twitter`: [@malloc](http://twitter.com/malloc)
 
-##不需关注，不需捐助
+## 不需关注，不需捐助
 
-##无需感谢
+## 无需感谢
 
-##关于作者
+## 关于作者
 
 ```javascript
 var malloc = {
